@@ -1,0 +1,12 @@
+{
+  "dependencies": {
+    "jzz": "^1.9.6",
+    "pino": "^10.1.0",
+    "prompts": "^2.4.2",
+    "webmidi": "^3.1.14"
+  },
+  "devDependencies": {
+    "chai": "^6.2.1",
+    "mocha": "^11.7.5"
+  }
+}
